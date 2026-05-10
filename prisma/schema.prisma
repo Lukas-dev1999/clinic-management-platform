@@ -1,0 +1,89 @@
+// This is your Prisma schema file
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider     = "sqlite"
+    url          = env("DATABASE_URL")
+    relationMode = "prisma"
+}
+
+model officeRoute {
+    id        String   @id @default(cuid())
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+}
+
+model Account {
+    id                String  @id @default(cuid())
+    userId            String
+    type              String
+    provider          String
+    providerAccountId String
+    refresh_token     String?
+    access_token      String?
+    expires_at        Int?
+    token_type        String?
+    scope             String?
+    id_token          String?
+    session_state     String?
+
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+    @@unique([provider, providerAccountId])
+    @@index([userId])
+}
+
+model Session {
+    id           String   @id @default(cuid())
+    sessionToken String   @unique
+    userId       String
+    expires      DateTime
+
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+    @@index([userId])
+}
+
+model Office {
+    id    String @id @default(cuid())
+    name  String?
+
+    users User[]
+}
+
+model User {
+    id            String    @id @default(cuid())
+    name          String?
+    image         String?
+    roles         String    @default("Patient")
+    email         String?   @unique
+    emailVerified DateTime?
+
+    accounts Account[]
+    sessions Session[]
+
+    roleInOffice String?
+    officeId     String?
+
+    office Office? @relation(fields: [officeId], references: [id])
+
+    @@index([officeId])
+}
+
+model Actions {
+    id                String   @id @default(cuid())
+    actionTime        DateTime @default(now())
+    actionTakerId     String
+    actionDescription String
+}
+
+model VerificationToken {
+    identifier String
+    token      String   @unique
+    expires    DateTime
+
+    @@unique([identifier, token])
+}

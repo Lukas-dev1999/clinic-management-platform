@@ -1,0 +1,12 @@
+winget install Rustlang.Rustup
+
+rustup default nightly
+
+copy .env.example .env
+
+cargo install sqlx-cli --no-default-features --features rustls,sqlite
+
+sqlx migrate run --database-url "sqlite://data/coemu.db?mode=rwc"
+
+cargo auth
+cargo game
