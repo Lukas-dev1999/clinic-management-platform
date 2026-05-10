@@ -340,3 +340,34 @@ MIT License © 2026 OnlineUnknowns
 
 </div>
 ```
+
+
+## 📡 Connect & Support
+
+<div align="center">
+
+<br/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286016083)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnlineUnknow)
+
+<br/>
+
+> 💡 If this project saved you time — drop a ⭐ on the repo. It costs nothing and means everything.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C851,50:01411C,100:0D1117&height=120&section=footer&text=Built%20by%20OnlineUnknow&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&pause=4000&color=555555&center=true&vCenter=true&width=650&height=28&lines=AI+Powered+Clinical+Operation+System+•+Engineered+for+Scale+•+©+OnlineUnknow" alt="Footer text" />
+
+</div>
+
