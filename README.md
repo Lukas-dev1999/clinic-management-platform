@@ -2,7 +2,7 @@
 
 <!-- Animated title using SVG -->
 <a href="https://github.com/onlineunknowns">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%A6%B7+DentalOS;Smart+Dental+Clinic+Management" alt="DentalOS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%A6%B7+Clinical Operating System;Smart+System+Clinic+Management" alt="Clinical Operating System" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@
 
 <br/>
 
-> **The all-in-one SaaS platform for modern dental clinics.**
+> **The all-in-one SaaS platform for modern System clinics.**
 > Manage patients, appointments, staff, multi-branch operations, and analytics — beautifully unified.
 
 <br/>
@@ -237,8 +237,8 @@ postgresql >= 14
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/onlineunknowns/dental-os.git
-cd dental-os
+git clone https://github.com/onlineunknowns/System-os.git
+cd System-os
 
 # 2. Install dependencies
 npm install
@@ -251,7 +251,7 @@ cp .env.example .env
 
 ```env
 # Database
-DATABASE_URL="postgresql://user:password@localhost:5432/dentalos"
+DATABASE_URL="postgresql://user:password@localhost:5432/Clinical Operating System"
 
 # NextAuth
 NEXTAUTH_SECRET="your-super-secret-key"
@@ -295,7 +295,7 @@ Role:     SUPER_ADMIN
 ## 🗂️ Project Structure
 
 ```
-dental-os/
+System-os/
 │
 ├── 📁 prisma/
 │   ├── schema.prisma          # Database models & relations
@@ -585,6 +585,6 @@ See [LICENSE](LICENSE) for full details.
 
 **Made with 🦷 and ❤️ by [onlineunknown](https://www.linkedin.com/in/onlineunknown/)**
 
-*Building better dental experiences, one commit at a time.*
+*Building better System experiences, one commit at a time.*
 
 </div>
