@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/OnlineUnknowns/AI-Powered-Clinical-Operating-System">
+<a href="https://github.com/Lukas-dev1999/AI-Powered-Clinical-Operating-System">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=34&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=AI-Powered+Clinical+Operating+System;Modern+Healthcare+Infrastructure+Platform;Hospitals+%E2%80%A2+Clinics+%E2%80%A2+Medical+Centers" alt="Typing SVG" />
 </a>
 
@@ -13,10 +13,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/OnlineUnknowns/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=14B8A6">
-  <img src="https://img.shields.io/github/forks/OnlineUnknowns/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=0EA5E9">
-  <img src="https://img.shields.io/github/license/OnlineUnknowns/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=22C55E">
-  <img src="https://img.shields.io/github/repo-size/OnlineUnknowns/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=F59E0B">
+  <img src="https://img.shields.io/github/stars/Lukas-dev1999/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=14B8A6">
+  <img src="https://img.shields.io/github/forks/Lukas-dev1999/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=0EA5E9">
+  <img src="https://img.shields.io/github/license/Lukas-dev1999/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=22C55E">
+  <img src="https://img.shields.io/github/repo-size/Lukas-dev1999/AI-Powered-Clinical-Operating-System?style=for-the-badge&color=F59E0B">
 </p>
 
 ---
@@ -259,7 +259,7 @@ Compliance:
 ## 📥 Clone Repository
 
 ```bash
-git clone https://github.com/OnlineUnknowns/AI-Powered-Clinical-Operating-System.git
+git clone https://github.com/Lukas-dev1999/AI-Powered-Clinical-Operating-System.git
 ```
 
 ---
@@ -328,7 +328,7 @@ Fork → Clone → Build → Commit → Push → Pull Request
 
 # 📜 License
 
-MIT License © 2026 OnlineUnknowns
+MIT License © 2026 Lukas-dev1999
 
 ---
 
@@ -349,7 +349,7 @@ MIT License © 2026 OnlineUnknowns
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/Lukas-dev1999)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286016083)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnlineUnknow)
 
